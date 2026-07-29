@@ -1,26 +1,6 @@
 return {
-  ["rgfrhfghfgjfgh"] = {
-    TagText = "random guy",
+  ["2a5049ed45b470054f963b922905d77ba7cbd0674ebf8a2639c571e7eb1c1974"] = {
+    TagText = "Test",
     TagColor = Color3.fromRGB(255,65,65)
-  },
-  ["imnoob12_o2"] = {
-    TagText = "Owner Alt",
-    TagColor = Color3.fromRGB(0,255,200)
-  },
-  ["imrunningrun"] = {
-    TagText = "Phoumishot",
-    TagColor = Color3.fromRGB(255,255,0)
-  },
-  ["imnoob12_o"] = {
-    TagText = "Script Owner",
-    TagColor = Color3.fromRGB(0,115,255)
-  },
-  ["ejh978te7hy"] = {
-    TagText = "Cola-DEV",
-    TagColor = Color3.fromRGB(133,65,255)
-  },
-  ["xylexiscandianic"] = {
-    TagText = "omg retard",
-    TagColor = Color3.fromRGB(255,0,255)
   }
 }
